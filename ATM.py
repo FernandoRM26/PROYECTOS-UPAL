@@ -1,15 +1,3 @@
-#Metodologia Agil (SCRUM)
-#SCRUM MASTER----> Brandon Rios
-#PRODUCT OWNER---> Emerson Paredes
-#Devs------------> Alex Paredes
-#----------------> Jose Nolasco
-#----------------> Raul Ramos
-
-'''
-(1) No se obtiene el dinero solicitado.
-(2) Cobro de comisiones erróneas
-(3) No se obtiene recibo
-'''
 from datetime import datetime
 now = datetime.now()
 class ATM:
