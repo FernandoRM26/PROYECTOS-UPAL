@@ -1,6 +1,5 @@
 from datetime import datetime
 now = datetime.now()
-class ATM:
     clientes,saldo_pen,saldo_usd,mov_pen,mov_usd = {},{},{},{},{}
 
     def __init__(self):
